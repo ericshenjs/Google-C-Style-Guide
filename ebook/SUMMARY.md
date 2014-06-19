@@ -6,7 +6,7 @@
 * [Scoping](Scoping.md)
 * [Classes](Classes.md)
 * [Google-Specific Magic](Google-Specific_Magic.md)
-* [Other C++ Features](Other_C++_Features.md)
+* [Other C++ Features](Other_Features.md)
 * [Naming](Naming.md)
 * [Comments](Comments.md)
 * [Formatting](Formatting.md)

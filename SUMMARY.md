@@ -6,7 +6,7 @@
 * [Scoping](ebook/Scoping.md)
 * [Classes](ebook/Classes.md)
 * [Google-Specific Magic](ebook/Google-Specific_Magic.md)
-* [Other C++ Features](ebook/Other_C++_Features.md)
+* [Other C++ Features](ebook/Other_Features.md)
 * [Naming](ebook/Naming.md)
 * [Comments](ebook/Comments.md)
 * [Formatting](ebook/Formatting.md)
